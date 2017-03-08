@@ -1,0 +1,13 @@
+#pragma once
+
+/**
+@enum
+@brief ÉVÅ[ÉìÇhÇc
+*/
+enum class SceneID : int
+{
+	NONE = 0,
+	TITLE,
+	GAMEPLAY,
+	ENDING
+};
