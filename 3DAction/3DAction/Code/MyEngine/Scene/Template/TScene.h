@@ -11,6 +11,7 @@
 class TScene :
 	public IScene
 {
+public:
 	/**
 	@fn
 	@brief コンストラクタ
